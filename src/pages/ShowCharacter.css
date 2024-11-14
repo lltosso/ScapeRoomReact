@@ -1,0 +1,13 @@
+.morty {
+    display: flex;
+    flex-direction: row;
+   flex-wrap: wrap;
+  }
+
+  h1 {
+    display: flex;
+   text-align: center;
+  }
+
+  
+  
